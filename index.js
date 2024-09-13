@@ -112,7 +112,7 @@ document.getElementById("instaAlvaro").addEventListener("click", function() {
 })
 
 document.getElementById("onliGallen").addEventListener("click", function() {
-    window.location.href = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_GVRFiYGnyD3IFMsWhREgwANYF8DBH10Tw&s";
+    window.location.href = "https://m1.comicporn.xxx/001/lgyudj8wcr/8.jpg";
 })
 
 document.getElementById("instaGallen").addEventListener("click", function() {
