@@ -110,3 +110,11 @@ document.getElementById("onliAlvaro").addEventListener("click", function() {
 document.getElementById("instaAlvaro").addEventListener("click", function() {
     window.location.href = "https://www.instagram.com/alam_apk/";
 })
+
+document.getElementById("onliGallen").addEventListener("click", function() {
+    window.location.href = "https://m1.comicporn.xxx/001/lgyudj8wcr/8.jpg";
+})
+
+document.getElementById("instaGallen").addEventListener("click", function() {
+    window.location.href = "https://www.instagram.com/daviid_gallen/";
+})
