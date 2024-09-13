@@ -118,3 +118,11 @@ document.getElementById("onliGallen").addEventListener("click", function() {
 document.getElementById("instaGallen").addEventListener("click", function() {
     window.location.href = "https://www.instagram.com/daviid_gallen/";
 })
+
+document.getElementById("onliAlba").addEventListener("click", function() {
+    window.location.href = "https://m1.comicporn.xxx/001/lgyudj8wcr/8.jpg";
+})
+
+document.getElementById("instaAlba").addEventListener("click", function() {
+    window.location.href = "https://www.instagram.com/albatomas_ballester/";
+})
