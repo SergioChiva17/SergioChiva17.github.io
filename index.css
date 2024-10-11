@@ -40,23 +40,17 @@ h1 {
   background-color: #393939;
   }
 
-
 #inicio {
   display: block;
-}
-
-#informacionInicio {
   position: absolute;
-  width: 400px;
+  width: 600px;
   height: 600px; 
   top: 450px;
   left: 60%;
   transform: translate(-50%, -50%); 
-  color: black;
+  color: rgb(34, 255, 0);
   text-align:center;
-
 }
-
 
 #imagenGrandprix {
   border-radius: 100px;
