@@ -57,12 +57,6 @@ h1 {
   border-radius: 100px;
 }
 
-@media (max-height: 545px) {
-  #textoInicio {
-    transform: translate(-57%, -300%);
-  }
-}
-
 #redesSociales {
   display: none;
   position: absolute;
