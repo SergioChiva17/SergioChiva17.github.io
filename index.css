@@ -19,7 +19,13 @@ h1 {
   margin: 0;
   font-size: 3em;
   }
-  
+
+p {
+  background-color: #393939; 
+  padding: 10px; 
+  border-radius: 20px;
+  line-height: 1.5;
+}  
 
   /* MENU IZQUIERDO */
 #menu {
